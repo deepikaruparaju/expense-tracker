@@ -1,13 +1,21 @@
-# 💸 Expense Tracker (CLI)
+# 💸 Expense Tracker (Python)
 
-A simple Python command-line app to track expenses.
+A simple terminal-based Expense Tracker to record, view, and manage your expenses efficiently — built with Python and JSON for easy storage.
 
-## Features
-- Add/view expenses
-- View monthly total
-- JSON file storage
+---
 
-## How to Run
+## 🚀 Features
+
+- ✅ Add and save expenses with notes
+- ✅ View all expenses in a clean format
+- ✅ Get total expenses by month
+- ✅ Delete a specific expense by index
+- 🔐 Password-protected access to sensitive operations
+
+---
+
+## 🧪 Sample Usage
 
 ```bash
+# Run the tracker
 python main.py
